@@ -1,0 +1,18 @@
+# Nitpick Build Artifacts
+build.abc
+*.ll
+*.bc
+*.s
+
+# Binaries
+*.out
+*.exe
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
